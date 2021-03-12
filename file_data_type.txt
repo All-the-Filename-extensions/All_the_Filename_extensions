@@ -1,0 +1,33 @@
+c-lang : コンピュータ言語
+
+c-lang/const システム構築言語　問題の解決策を実行可能なシステムを構築する
+c-lang/const/shell シェル言語　コンピュータ自身のタスクを制御する
+
+c-lang/const/cfg 設定言語
+c-lang/const/cfg/toolkit ツールキット言語
+
+c-lang/const/prog プログラミング言語　機械、特にコンピュータに命令を伝える
+c-lang/const/prog/script スクリプト言語　主にインタプリタによって実行されるプログラミング言語
+c-lang/const/prog/shading シェーディング言語　シェーディング
+c-lang/const/prog/macro マクロ言語
+c-lang/const/prog/page-disc ページ記述言語　プリンタに対して描画を指示するプログラミング言語
+
+c-lang/model モデリング言語　ルールの一貫したセットで定義された構造によって情報、知識あるいはシステムを表現する
+c-lang/model/hard-disc ハードウェア記述言語
+arch
+
+
+c-lang/query | 問い合わせ言語　コンピュータのデータに対して問い合わせをする
+c-lang/data-base データベース言語　データベースを扱う
+
+c-lang/simula シミュレーション言語　コンピュータ・シミュレーションにおける操作を記述する
+
+c-lang/data-disc データ記述言語　コンピュータにおいて扱うデータを記述する
+c-lang/data-disc/markup マークアップ言語
+c-lang/data-disc/spec-disc 仕様記述言語　システムなどの仕様を記述する
+c-lang/data-disc/spec-disc/schema スキーマ言語
+c-lang/data-disc/spec-disc/data-def データ定義言語　シリアライズされた構造化データを定義する
+c-lang/data-disc/spec-disc/arch-disc アーキテクチャ記述言語　ソフトウェアやシステムのアーキテクチャを記述する
+
+c-lang/style-sheet スタイルシート言語　構造化文書の表示を記述する
+c-lang/trans 変換言語　テキストを意味内容を変化させずに別の形式に変換する
